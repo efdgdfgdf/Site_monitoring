@@ -29,9 +29,5 @@ window.Config = {
       text: 'Blog',
       url: 'https://www.dp2002.top/'
     },
-    {
-      text: 'Music',
-      url: 'https://music.dp2002.top/'
-    },
   ],
 };
